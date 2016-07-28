@@ -63,14 +63,14 @@ body {
 
 .instructions {
 	position:absolute;
-	left:600px;
+	left:675px;
 	padding-top:50px;
 }
 
 .left {
-	padding-right:400px;
+	padding-right:350px;
 }
 .right {
 	padding-left:200px;
-	padding-right:200px;
+	padding-right:100px;
 }
