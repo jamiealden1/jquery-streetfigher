@@ -1,5 +1,7 @@
 body {
 	background-color:black;
+		font-family: 'Permanent Marker', cursive;
+		font-size:30px;
 }
 
 .main {
@@ -57,4 +59,18 @@ body {
 	top:167px;
 	left:520px;
 	float:left;
+}
+
+.instructions {
+	position:absolute;
+	left:600px;
+	padding-top:50px;
+}
+
+.left {
+	padding-right:400px;
+}
+.right {
+	padding-left:200px;
+	padding-right:200px;
 }
